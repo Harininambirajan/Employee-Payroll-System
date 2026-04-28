@@ -15,7 +15,7 @@ The solution follows Object-Oriented Programming (OOP) principles to ensure modu
 
 ## Steps to Execute
 1.  **Requirement:** Ensure Java Development Kit (JDK) 8 or higher is installed.
-2.  **Clone the Repo:** `git clone https://github.com/[Your-Username]/Employee-Payroll-System.git`
+2.  **Clone the Repo:** `git clone https://github.com/Harininambirajan/Employee-Payroll-System.git`
 3.  **Compile:**
     `javac Main.java`
 4.  **Run:**
